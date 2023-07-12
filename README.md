@@ -1,0 +1,3 @@
+## MINI E-Commerce(Tech Net)
+
+- I have Buil a mini e-commerce website. You can visit this website at first you have seen the home page this website. I am try to some features in home page. And the Navbar is you can seen the products nav it products page you can see the all products and you can add to the card and filter a price based. The Navbar you can see the cart icon in this icon if you can click then see whis product you can add to the cart and how many quantity in here and how many price in this product and your totat price. In the cart section you can up and down the product quantity the cart product list. and if you went to remove totally any product then can do it the delete icon.
